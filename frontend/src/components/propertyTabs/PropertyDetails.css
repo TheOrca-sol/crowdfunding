@@ -8,7 +8,7 @@
 
 .image-gallery {
     flex: 1;
-    background: url('/home/ayman/Desktop/crowdfunding/frontend/public/home.jpg') no-repeat center center;
+    background: url('https://via.placeholder.com/350x200') no-repeat center center;
     background-size: cover;
     position: relative;
 }

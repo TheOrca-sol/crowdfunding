@@ -6,7 +6,7 @@ const projects = [
     {
       id: 1,
       title: "L'Authentique: T3 au cœur de Dijon",
-      image: `${process.env.PUBLIC_URL}/home.jpg`,
+      image: `https://via.placeholder.com/350x200`,
       location: "Dijon, Côte-d'Or",
       price: "259 950€",
       targetYield: "8.41",
@@ -17,7 +17,7 @@ const projects = [
     {
       id: 2,
       title: "Le Royal: T2 au cœur des Chateaux de la Loire",
-      image: `${process.env.PUBLIC_URL}/home.jpg`,
+      image: `https://via.placeholder.com/350x200`,
       location: "Blois, Loir-et-Cher",
       price: "172 250€",
       targetYield: "8.58",
@@ -27,7 +27,7 @@ const projects = [
     {
       id: 3,
       title: "Superbe longère restaurée à 1h de Paris",
-      image: `${process.env.PUBLIC_URL}/home.jpg`,
+      image: `https://via.placeholder.com/350x200`,
       location: "Maisons, Eure-et-Loir",
       price: "578 600€",
       targetYield: "7.11",

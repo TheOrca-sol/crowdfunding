@@ -52,7 +52,7 @@ const Property = () => {
                     </div>
                 </div>
                 <div className="property-image">
-                    <img src="/home/ayman/Desktop/crowdfunding/frontend/public/home.jpg" alt="Property Interior" />
+                    <img src="https://via.placeholder.com/350x200" alt="Property Interior" />
                 </div>
                 <div className="property-details">
                     <div className="location">Dijon, Côte-D'Or</div>

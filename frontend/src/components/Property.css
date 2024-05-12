@@ -1,0 +1,154 @@
+.property
+-container {
+width: 100%;
+max-width: 1200px; /* Adjust based on your layout needs */
+margin: auto;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+background: white;
+}
+
+.header {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+}
+
+.back-button {
+background: none;
+border: none;
+font-size: 16px;
+cursor: pointer;
+}
+
+.property-title {
+font-size: 24px;
+font-weight: bold;
+}
+
+.tags {
+display: flex;
+gap: 10px;
+}
+
+.tag {
+padding: 5px 10px;
+color: white;
+border-radius: 5px;
+font-size: 14px;
+}
+
+.tag-sold {
+background-color: red;
+}
+
+.tag-new {
+background-color: green;
+}
+
+.property-image img {
+width: 100%;
+height: auto;
+display: block;
+}
+
+.property-details {
+padding: 20px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.location {
+font-size: 18px;
+}
+
+.financials {
+text-align: right;
+}
+
+.financials div {
+margin: 5px 0;
+}
+
+.actions {
+display: flex;
+justify-content: space-evenly;
+padding: 20px;
+}
+
+.action-button {
+padding: 10px 20px;
+background-color: #1890ff;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+background-color: #1077e6;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between; /* Ensures content is spaced out */
+    padding: 20px;
+}
+
+.tabs-container {
+    flex: 3; /* Allows the tabs container to take more space */
+    margin-right: 20px; /* Space between tabs and card */
+}
+
+.investment-card {
+    flex: 1; /* Adjust based on how much space you want the card to take */
+    max-width: 300px; /* or whatever width you prefer */
+}
+.investment-section {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.info-blocks {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.info-block {
+    background-color: #444; 
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%; 
+}
+
+.icon {
+    font-size: 24px; 
+}
+
+.call-to-action {
+    text-align: center;
+    padding: 20px;
+}
+
+.cta-button {
+    background-color: #ff9900; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+
+.investment-graph {
+    background-color: #333;  
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffcc00;  
+}

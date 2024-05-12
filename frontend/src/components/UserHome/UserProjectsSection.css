@@ -1,0 +1,28 @@
+.projects-section {
+    padding: 20px;
+    background-color: #1a1a1a; /* Adjust the background color if needed */
+  }
+  
+  .project-card {
+    margin-bottom: 20px;
+  }
+  
+  .project-tags {
+    margin-bottom: 10px;
+  }
+  
+  .project-details {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 10px;
+  }
+  
+  .project-details div {
+    margin-bottom: 5px;
+  }
+  
+  .discover-button {
+    margin-top: auto;
+  }
+  

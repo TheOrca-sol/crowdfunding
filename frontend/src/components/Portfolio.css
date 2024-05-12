@@ -1,0 +1,40 @@
+.portfolio-page {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    background: linear-gradient(to bottom, #004445, #2c786c);
+}
+
+.balance-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.balance-section .ant-card {
+    background: rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+.transaction-section .ant-table {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.ant-card-head-title {
+    color: white;
+}
+
+.ant-card-body {
+    color: white;
+}
+
+.ant-btn-primary {
+    background-color: green;
+    border-color: green;
+}
+
+.ant-btn-danger {
+    background-color: red;
+    border-color: red;
+}

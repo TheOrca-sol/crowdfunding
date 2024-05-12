@@ -1,0 +1,32 @@
+
+
+a {
+  color: inherit;
+  text-decoration: none; 
+}
+.investment-strategy-section {
+  justify-content: center;
+  background: linear-gradient(to right, #1a1a1a, #333); /* Adjust gradient to match the exact design */
+  color: white;
+  padding: 20px 40px; /* Adjust padding for proper spacing */
+  text-align: left;
+}
+
+.investment-strategy-section h1 {
+  font-size: 24px; /* Adjust font size as necessary */
+  margin-bottom: 10px;
+}
+
+.investment-strategy-section p {
+  font-size: 18px; /* Adjust font size as necessary */
+  margin-bottom: 20px;
+}
+
+.strategy-button {
+  font-size: 16px; /* Larger font size for visibility */
+  padding: 10px 30px; /* Larger padding for a bigger button */
+}
+
+
+
+

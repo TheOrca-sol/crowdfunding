@@ -1,0 +1,29 @@
+.financial-summary {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #222; /* Dark background */
+    color: white;
+    padding: 20px;
+    gap: 20px;
+}
+
+.financial-summary h2 {
+    color: #ffcc00; /* Styling for headers */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li strong {
+    color: limegreen; /* Highlight total and important results */
+}
+
+.results {
+    grid-column: 1 / -1; /* Results span across all columns */
+}

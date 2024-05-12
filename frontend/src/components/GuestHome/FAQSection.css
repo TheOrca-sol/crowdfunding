@@ -1,0 +1,17 @@
+
+
+.faq-section {
+    background-color: #1a1a1a; /* Dark background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .more-info-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  

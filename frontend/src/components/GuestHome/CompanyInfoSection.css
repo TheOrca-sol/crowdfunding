@@ -1,0 +1,30 @@
+.company-info-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f0f2f5; /* Light grey background */
+  }
+  
+  .header-section h1 {
+    color: #333; /* Dark grey color for text */
+  }
+  
+  .statistics-section .ant-card {
+    background: #333; /* Dark background for cards */
+    color: white; /* White text */
+  }
+  
+  .statistics-section .ant-card-head-title {
+    color: #c6e377; /* Light green for titles */
+  }
+  
+  .projects-section {
+    margin-top: 20px;
+  }
+  
+  .learn-more-button {
+    margin-top: 20px;
+    display: block; /* Make the button block to fill width */
+    width: 100%;
+  }
+  

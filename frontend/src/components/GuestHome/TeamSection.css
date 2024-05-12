@@ -1,0 +1,30 @@
+.team-section {
+    text-align: center;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  
+  .team-member-card {
+    max-width: 300px; /* Adjust based on your design preference */
+    margin: auto;
+  }
+  
+  .team-member-card .ant-card-cover img {
+    height: 180px; /* Adjust based on your design preference */
+    object-fit: cover;
+  }
+  
+  .team-member-card .ant-card-body {
+    padding: 16px;
+  }
+  
+  .team-member-card .ant-card-meta-title {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .team-member-card .ant-card-meta-description p {
+    margin-bottom: 4px;
+    color: #666; /* Adjust color for readability */
+  }
+  

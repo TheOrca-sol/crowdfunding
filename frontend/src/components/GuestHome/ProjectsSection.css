@@ -1,0 +1,44 @@
+
+.projects-section {
+    width: 70%;
+    margin: 0 auto; /* This centers the section horizontally */
+    padding: 20px 0; /* Optional: Adds vertical padding for better spacing */
+    margin-bottom: 100px;
+  }
+  
+  .project-card {
+    max-width: 350px;
+    margin: auto;
+    position: relative;
+  }
+  
+  .project-details {
+    margin-top: 20px;
+  }
+  
+  .rates div {
+    margin-bottom: 10px;
+  }
+  
+  .rates span {
+    font-size: 0.8rem;
+    color: #aaa;
+  }
+  
+  .investors {
+    margin-bottom: 20px;
+  }
+  
+  .project-card .ant-card-cover img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .project-card .ant-card-body {
+    padding: 16px;
+  }
+  
+  .project-card .ant-btn {
+    width: 100%;
+  }
+  

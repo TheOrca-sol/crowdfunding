@@ -1,0 +1,24 @@
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-links a, .social-media-links a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  
+  .footer-logo {
+    width: 100px; /* Adjust as necessary */
+  }
+  

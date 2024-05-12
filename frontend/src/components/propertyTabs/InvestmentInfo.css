@@ -1,0 +1,37 @@
+.investment-section {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.info-blocks {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.info-block {
+    background-color: #444;  
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%; 
+}
+
+.icon {
+    font-size: 24px; 
+}
+
+.call-to-action {
+    text-align: center;
+    padding: 20px;
+}
+
+.cta-button {
+    background-color: #ff9900;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}

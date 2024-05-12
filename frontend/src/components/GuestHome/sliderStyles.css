@@ -1,0 +1,14 @@
+
+
+.slide {
+    margin: 30 100px; /* Adjust this value to change the spacing between slides */
+    background: #333;
+    color: white;
+    padding: 20px;
+    margin-right: 15px;
+    min-Height: 250px;
+    display: flex;
+    flex-Direction: column;
+    align-Items: center;
+    justify-Content: center;
+  }

@@ -1,0 +1,18 @@
+/* styles.css */
+.ant-menu-horizontal {
+    border-bottom: none;
+    justify-content: center;
+  }
+  
+  .ant-menu-item {
+    padding: 0 15px;
+  }
+  
+  .ant-menu-horizontal > .ant-menu-item:hover {
+    border-bottom: 2px solid #1890ff;
+  }
+  
+  .navbar-logo {
+    height: 32px; 
+  }
+  
